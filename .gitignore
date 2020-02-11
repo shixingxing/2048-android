@@ -1,12 +1,3 @@
-# built application files
-*.ap_
-
-# files for the dex VM
-*.dex
-
-# Java class files
-*.class
-
 # generated files
 bin/
 gen/
@@ -26,3 +17,11 @@ proguard/
 # Gradle stuff
 build
 .gradle
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+project.properties
+
+assets/2048/*
